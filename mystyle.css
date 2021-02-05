@@ -1,0 +1,50 @@
+body {
+	background-color: lightblue;
+	font-family: sans-serif;
+	background-image: url(webpage.png);
+	background-size: 2025px 1091px;
+	background-repeat: repeat-y;
+}
+
+*{
+	color: navy;
+}
+
+h1 {
+  	text-align: center;
+}
+
+p {
+	margin-left: 30px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+table, th, td { 
+		border: 0px;  
+		margin-left: 30px;
+		text-align: center;   
+}
+
+ul {
+	margin-left: 30px;
+}
+
+div {
+  	display: block;
+  	margin-left: 30px;
+}
+
+a:hover {
+  	color: blue;
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
